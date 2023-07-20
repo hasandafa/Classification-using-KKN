@@ -1,1 +1,1 @@
-# Classification-using-KKN
+# Classification-using-KNN
